@@ -1,4 +1,4 @@
-![Tool Logo][imglogo]
+![Tool Logo](Citation-Management.png)
 
 
 # Title
