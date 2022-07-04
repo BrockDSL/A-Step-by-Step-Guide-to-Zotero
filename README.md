@@ -23,6 +23,10 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 
 ----
 
+## Final Quiz to test your Knowledge!
+
+----
+
 **This workshop is brought to you by the Brock University Digital Scholarship Lab. For a listing of our upcoming workshops go to Experience BU if you are a Brock affiliate or Eventbrite page for external attendees. For additional inquiries, contact DSL@Brocku.ca or [Zotero Forum](https://forums.zotero.org/discussion/81783/contact)**
 
 ----
