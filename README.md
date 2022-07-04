@@ -7,6 +7,8 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 # Let's Test your knowledge on Referencing
 *Please go through the slideshow below to begin*
 
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/42080/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ---
 
 ## Set up Instructions
