@@ -31,7 +31,7 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 
 ----
 
-## 6.	Analyze, Cite and Share with Zotero
+## Analyze, Cite and Share with Zotero
 
 ----
 
