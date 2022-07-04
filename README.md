@@ -4,10 +4,13 @@
 # Citation Management with Zotero
 Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, and share anything you might find on the internet including scholarly publications, news articles, and YouTube videos. It is a great tool to help you do your research. This workshop will guide you through the installation of this tool and the most effective ways to use it. Zotero is available for Windows, Mac, and Linux.
 
-### First header
-Content
+# Let's Test your knowledge on Referencing
+*Please go through the slideshow below to begin*
 
-### Second Header
+---
+
+## Set up Instructions
+
 
 Content
 
@@ -34,6 +37,4 @@ You can also find us on:
 
 
 
-<!--- Please use reference style images so that it is easier to update pictures later --->
-
-[imglogo]: INSERT LOGO FILENAME HERE
+**This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.  For additional inquiries, contact [DSL@Brocku.ca](mailto:DSL@Brocku.ca) or [Zotero Forum](https://forums.zotero.org/discussion/81783/contact)**
