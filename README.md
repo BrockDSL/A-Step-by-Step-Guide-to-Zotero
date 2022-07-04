@@ -11,11 +11,8 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 
 ## Set up Instructions
 
-In preparation for this workshop, you will need to register for a [Zotero account](https://www.zotero.org/user/register)
+In preparation for this workshop, you will need to register for a [Zotero account](https://www.zotero.org/user/register). Download the [desktop client](https://www.zotero.org/support/installation) and [browser extension](https://www.zotero.org/download/). Also go though the [install plugins](https://www.zotero.org/support/word_processor_plugin_manual_installation) for your word processors, like LibreOffice or MS Word.
 
-Download the [desktop client](https://www.zotero.org/support/installation) and [browser extension](https://www.zotero.org/download/).
-
-Also go though the [install plugins](https://www.zotero.org/support/word_processor_plugin_manual_installation) for your word processors, like LibreOffice or MS Word.
 ----
 
 **This workshop is brought to you by the Brock University Digital Scholarship Lab. For a listing of our upcoming workshops go to Experience BU if you are a Brock affiliate or Eventbrite page for external attendees. For additional inquiries, contact DSL@Brocku.ca or [Zotero Forum](https://forums.zotero.org/discussion/81783/contact)**
