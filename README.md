@@ -4,6 +4,8 @@
 # Citation Management with Zotero
 Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, and share anything you might find on the internet including scholarly publications, news articles, and YouTube videos. It is a great tool to help you do your research. This workshop will guide you through the installation of this tool and the most effective ways to use it. Zotero is available for Windows, Mac, and Linux.
 
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/42087/embed" width="993" height="651" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ## Let's Test your knowledge on Referencing
 *Please go through the slideshow below to begin*
 
