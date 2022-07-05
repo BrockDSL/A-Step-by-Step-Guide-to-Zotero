@@ -41,7 +41,9 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 ----
 
 ## Final Quiz to test your Knowledge!
+*Please go through the slideshow for knowledge Test*
 
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/42123/embed" width="993" height="378" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 ----
 
 **This workshop is brought to you by the Brock University Digital Scholarship Lab. For a listing of our upcoming workshops go to Experience BU if you are a Brock affiliate or Eventbrite page for external attendees. For additional inquiries, contact DSL@Brocku.ca or [Zotero Forum](https://forums.zotero.org/discussion/81783/contact)**
