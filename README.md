@@ -79,7 +79,7 @@ Select folder “Mental Health” in the left corner. Select Title “Mental hea
 
 ### Step 5- Citation Inserted. 
 
-You will see your citation is inserted in your Word document. Please see the below image. (I have highlighted and bold the citation for your easy detection) 
+You will see your citation is inserted in your Word document. Please see the below image (I have highlighted and bold the citation for your easy detection). Well done on adding your citation :joy:
 
 ![citation inserted](step 5.JPG)
 
