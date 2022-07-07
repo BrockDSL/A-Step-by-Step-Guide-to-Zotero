@@ -44,7 +44,7 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 
 ### Step 1 – Prepare your document. 
 
-To add citations and a bibliography to my article, please download the word document. 
+To add citations and a bibliography to my article, please [download](https://github.com/BrockDSL/A-Step-by-Step-Guide-to-Zotero/raw/master/Mental%20Health.docx) the word document. 
 Before we move forward, please make sure you have installed the [Zotero word plugin](https://www.zotero.org/support/word_processor_plugin_manual_installation). 
 
 ![Open the word document](step 1.JPG)
