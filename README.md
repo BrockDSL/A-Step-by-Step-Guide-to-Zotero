@@ -40,9 +40,11 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42152/embed" width="993" height="340" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
+## Let's Add the Citation Together. While making a report, I forgot to cite the author’s work. I would like you to help me avoid any charge of plagiarism and do a proper citation. 
+
 ### Step 1 – Prepare your document. 
 
-While making a report, I forgot to cite the author’s work. I would like you to help me avoid any charge of plagiarism and do a proper citation. To add citations and a bibliography to my article, please download the word document. 
+To add citations and a bibliography to my article, please download the word document. 
 Before we move forward, please make sure you have installed the [Zotero word plugin](https://www.zotero.org/support/word_processor_plugin_manual_installation). 
 
 ![Open the word document](step 1.JPG)
