@@ -1,6 +1,5 @@
 ![Tool Logo](Citation-Management.png)
 
-	> blockquote
 # Citation Management with Zotero
 Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, and share anything you might find on the internet including scholarly publications, news articles, and YouTube videos. It is a great tool to help you do your research. This workshop will guide you through the installation of this tool and the most effective ways to use it. Zotero is available for Windows, Mac, and Linux.
 
@@ -56,7 +55,7 @@ Before we move forward, please make sure you have installed the [Zotero word plu
 
 * Once the word document is open, please click on Zotero Tab, just next to the Help section on top. Once you will click on Zotero, there will be many different options open for you. Please select “Add/Edit Citation” for citation.  
 
-**Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document :P**
+>  **Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document :P**
 
 ![select the citation style](step 2.JPG)
 
