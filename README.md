@@ -40,6 +40,7 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42152/embed" width="993" height="340" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
+
 ## Let's Add the Citation Together. 
 While making a report, I forgot to cite the author’s work. I would like you to help me avoid any charge of plagiarism and do a proper citation. 
 
@@ -55,7 +56,7 @@ Before we move forward, please make sure you have installed the [Zotero word plu
 
 * Once the word document is open, please click on Zotero Tab, just next to the Help section on top. Once you will click on Zotero, there will be many different options open for you. Please select “Add/Edit Citation” for citation.  
 
->  **Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document :P**
+ ==**Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document :P**==
 
 ![select the citation style](step 2.JPG)
 
@@ -83,7 +84,7 @@ You will see your citation is inserted in your Word document. Please see the bel
 
 ![citation inserted](step 5.JPG)
 
-***Below is the video demonstrating for your better understanding on how to add citation and bibliography to your document. Please watch and try adding citation and bibliography to your own documents.***
+>  ***Below is the video demonstrating for your better understanding on how to add citation and bibliography to your document. Please watch and try adding citation and bibliography to your own documents.***
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42153/embed" width="993" height="614" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 ----
