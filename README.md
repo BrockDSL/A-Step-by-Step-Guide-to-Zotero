@@ -84,7 +84,7 @@ You will see your citation is inserted in your Word document. Please see the bel
 
 ![citation inserted](step 5.JPG)
 
->  ***Below is the video demonstrating for your better understanding on how to add citation and bibliography to your document. Please watch and try adding citation and bibliography to your own documents.***
+>  ***Below is the video demonstrating on how to add citation and bibliography to your document. Please watch and try adding citation and bibliography to your own documents, for your better understanding.***
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42153/embed" width="993" height="614" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 ----
