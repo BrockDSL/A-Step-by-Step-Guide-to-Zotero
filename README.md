@@ -52,7 +52,8 @@ Before we move forward, please make sure you have installed the [Zotero word plu
 ### Step 2- Choosing Citation Style
 
 * Once the word document is open, please click on Zotero Tab, just next to the Help section on top. Once you will click on Zotero, there will be many different options open for you. Please select “Add/Edit Citation” for citation.  
-Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document :P
+
+**Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document :P**
 
 ![select the citation style](step 2.JPG)
 
