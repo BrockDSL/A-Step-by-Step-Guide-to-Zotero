@@ -22,13 +22,14 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 
 ----
 
-## Gathering Data with Zotero
+## <ins>Gathering Data with Zotero</ins>
 *Please go through the slideshow to lean more on how to gather your items*
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42095/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ----
 
-## Organizing Data with Zotero
+## <ins>Organizing Data with Zotero</ins>
 *Organizing means arranging data or items into a structured form. You can organize you item with the help of Zotero in the form of collection, library and many more. Please go through the slideshow to lean more*
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42121/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
