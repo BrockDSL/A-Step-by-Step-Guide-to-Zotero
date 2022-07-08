@@ -50,7 +50,7 @@ While making a report, I forgot to cite the author’s work. I would like you to
 To add citations and a bibliography to my article, please [download](https://github.com/BrockDSL/A-Step-by-Step-Guide-to-Zotero/raw/master/Mental%20Health.docx) the word document. 
 Before we move forward, please make sure you have installed the [Zotero word plugin](https://www.zotero.org/support/word_processor_plugin_manual_installation). 
 
-![Open the word document](step 1.JPG)
+
 
 ### Step 2- Choosing Citation Style
 
@@ -58,31 +58,29 @@ Before we move forward, please make sure you have installed the [Zotero word plu
 
  <ins>***Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document.***</ins>
 
-![select the citation style](step 2.JPG)
 
 
 * The dialogue box will appear to select citation style. Please select APA Citation style for learning purposes.
 
-![citation style box](step 22.JPG)
 
 ### Step 3- Red Magic Box
 
 After selecting your citation style, a red color magic box will appear on your word document. Right-click on the Z symbol and select classic view. 
 
-![red magic box](step 3.JPG)
+
 
 ### Step 4- Adding Citation
 
 Once you click on classic view in the previous step, a dialogue box will appear, showing your collection and libraries from Zotero. 
 Select folder “Mental Health” in the left corner. Select Title “Mental health” and press “OK”
 
-![adding citation](step 4.JPG)
+
 
 ### Step 5- Citation Inserted. 
 
-You will see your citation is inserted in your Word document. Please see the below image (I have highlighted and bold the citation for your easy detection). Well done on adding your citation :joy:
+You will see your citation is inserted in your Word document. Please see the below image (I have highlighted and bold the citation for your easy detection). Well done on adding your citation.
 
-![citation inserted](step 5.JPG)
+
 
 >  ***Below is the video demonstrating on how to add citation and bibliography to your document. Please watch and try adding citation and bibliography to your own documents, for your better understanding.***
 
