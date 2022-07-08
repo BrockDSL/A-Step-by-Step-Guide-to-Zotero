@@ -81,11 +81,10 @@ You can add items manually. First, you will have to click on the folder in which
 *  To create a child note, First, select the folder “Mental Health”.
 * Select an item in the center pane. Then, either click the “New Note” button at the top of the center pane and select “Add Child Note” or go to the “Notes” tab in the right-hand pane and click the “Add” button. 
 *  A note editor will appear in the right-hand pane. Type or paste the following in your note editor:
-* Mental health disorders can generally be grouped into categories. Some of the most common include:*
-*1.Anxiety disorders*
-*2.Eating disorders*
-*3.Mood disorders*
-
+*Mental health disorders can generally be grouped into categories. Some of the most common include:*
+1. Anxiety Disorder
+2. Eating Disorder
+3. Mood Disorder
 * Press Enter. Your child note will be automatically created. 
 
 ![Note image](org 1.JPG)
