@@ -74,6 +74,39 @@ You can add items manually. First, you will have to click on the folder in which
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42121/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<center>Let's Organize the Data Together.</center>
+
+**Step 1 –  Add Note**
+
+*  To create a child note, First, select the folder “Mental Health”.
+* Select an item in the center pane. Then, either click the “New Note” button at the top of the center pane and select “Add Child Note” or go to the “Notes” tab in the right-hand pane and click the “Add” button. 
+*  A note editor will appear in the right-hand pane. Type or paste the following in your note editor:
+* Mental health disorders can generally be grouped into categories. Some of the most common include:*
+*1.Anxiety disorders*
+*2.Eating disorders*
+*3.Mood disorders*
+
+* Press Enter. Your child note will be automatically created. 
+
+![Note image](org 1.JPG)
+
+**Step 2 –  Add Tags**
+
+* To add a tag to an item, First, select the folder “Mental Health”. 
+* Select the item in the center Zotero pane, and then click the Tags tab in the right-hand pane. 
+* Click the Add button, type the tag name – (Example: #Mental Health), and type Enter/Return.
+
+![Tag image](org 2.JPG)
+
+**Step 3 –  Add Related**
+
+* To create a relation, First, select the folder “Mental Health”. 
+* Select an item in the center pane and go to the “Related” tab of the right pane. 
+* Click the “Add” button, and click on the “Add items” folder from the same library in the pop-up window (hold down Ctrl or Shift [Windows/Linux] or Cmd or Shift [Mac] to select multiple items) 
+* Select the item under the title (Pandemic! COVID-19 shakes the world) and click “OK”. The selected items will now show up as related items in the “Related” tab and clicking an item will take you straight to that item.
+
+![Related  image](org 3.JPG)
+
 ----
 
 ## <ins>Sync, Cite and Share with Zotero</ins>
