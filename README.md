@@ -57,13 +57,12 @@ Before we move forward, please make sure you have installed the [Zotero word plu
 
 * Once the word document is open, please click on Zotero Tab, just next to the Help section on top. Once you will click on Zotero, there will be many different options open for you. Please select “Add/Edit Citation” for citation.  
 
- <ins>***Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document.***</ins>
-
-
 
 * The dialogue box will appear to select citation style. Please select APA Citation style for learning purposes.
 
-
+ <ins>***Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document.***</ins>
+ 
+ 
 ### Step 3- Red Magic Box
 
 After selecting your citation style, a red color magic box will appear on your word document. Right-click on the Z symbol and select classic view. 
@@ -79,7 +78,7 @@ Select folder “Mental Health” in the left corner. Select Title “Mental hea
 
 ### Step 5- Citation Inserted. 
 
-You will see your citation is inserted in your Word document. Please see the below image (I have highlighted and bold the citation for your easy detection). Well done on adding your citation.
+You will see your citation is inserted in your Word document. Well done on adding your citation.
 
 
 
