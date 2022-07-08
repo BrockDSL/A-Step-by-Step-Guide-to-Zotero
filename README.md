@@ -42,7 +42,7 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 
 
 
-## Let's Add Citation and Bibliography Together. 
+# Let's Add Citation and Bibliography Together. 
 While making a report, I forgot to cite the author’s work. I would like you to help me avoid any charge of plagiarism and do a proper citation. 
 
 
