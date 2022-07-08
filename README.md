@@ -74,7 +74,7 @@ You can add items manually. First, you will have to click on the folder in which
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42121/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<center>Let's Organize the Data Together.</center>
+**<center>Let's Organize the Data Together.</center>**
 
 **Step 1 –  Add Note**
 
