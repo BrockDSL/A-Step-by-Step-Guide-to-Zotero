@@ -49,18 +49,18 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 
 
 
-### <center>Let's Add Citation and Bibliography Together.</center>
+### Let's Add Citation and Bibliography Together.
 While making a report, I forgot to cite the author’s work. I would like you to help me avoid any charge of plagiarism and do a proper citation. 
 
 
-### Step 1 – Prepare your document. 
+### <center>Step 1 – Prepare your document</center>
 
 To add citations and a bibliography to my article, please [download](https://github.com/BrockDSL/A-Step-by-Step-Guide-to-Zotero/raw/master/Mental%20Health.docx) the word document. 
 Before we move forward, please make sure you have installed the [Zotero word plugin](https://www.zotero.org/support/word_processor_plugin_manual_installation). 
 
 
 
-### Step 2- Choosing Citation Style
+### <center>Step 2- Choosing Citation Style</center>
 
 * Once the word document is open, please click on Zotero Tab, just next to the Help section on top. Once you will click on Zotero, there will be many different options open for you. Please select “Add/Edit Citation” for citation.  
 
@@ -70,20 +70,20 @@ Before we move forward, please make sure you have installed the [Zotero word plu
  <ins>*Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document.*</ins>
  
  
-### Step 3- Red Magic Box
+### <center>Step 3- Red Magic Box</center>
 
 After selecting your citation style, a red color magic box will appear on your word document. Right-click on the Z symbol and select classic view. 
 
 
 
-### Step 4- Adding Citation
+### <center>Step 4- Adding Citation</center>
 
 Once you click on classic view in the previous step, a dialogue box will appear, showing your collection and libraries from Zotero. 
 Select folder “Mental Health” in the left corner. Select Title “Mental health” and press “OK”
 
 
 
-### Step 5- Citation Inserted. 
+### <center>Step 5- Citation Inserted</center>
 
 You will see your citation is inserted in your Word document. Well done on adding your citation.
 
