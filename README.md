@@ -36,26 +36,34 @@ Please create three collections :
 1.	Add Items
 2.	Mental Health
 
+![Adding Collection](step 1.JPG)
+
 ### Step 2 –  Add Item by Identifier
 
 •	Select the “Add item” folder. Click the “Add Item by Identifier” button at the top of the center column of the Zotero pane.
 •	A dialogue box will appear to enter the identifier. Type or paste in the identifier - 978-1509546114, and press Enter/Return.
 •	You will see the title “Pandemic! COVID-19 shakes the world” added to your “Add Items” Collection.
 
+![Add item by identifier](step 2.JPG)
+
 ### Step 3 –  Add items manually
 
-You can add items manually. First, you will have to click on the folder in which you want to add an item. After selecting the folder, you will have to click the green plus sign on the top and select the relevant item type (example: Book). You can add all the metadata under the “Info” Tab. All your work will be saved automatically.  
+You can add items manually. First, you will have to click on the folder in which you want to add an item. After selecting the folder, you will have to click the green plus sign on the top and select the relevant item type (example: Book). You can add all the metadata under the “Info” Tab. All your work will be saved automatically. 
+
+![Add item manually](step 3.JPG)
 
 ### Step 4 –  Adding from Browser
 
-* Go to your browser and open the link. Please make sure, you have downloaded the browser extension during setup instructions. 
-*Once the link is open in your browser, you will see a specific icon near the browser's address bar. Click on the icon and select the folder “Mental Health”. This will automatically save your web page in Zotero. 
+* Go to your browser and open the [link](https://www.medicalnewstoday.com/articles/154543). Please make sure, you have downloaded the browser extension during setup instructions. 
+* Once the link is open in your browser, you will see a specific icon near the browser's address bar. Click on the icon and select the folder “Mental Health”. This will automatically save your web page in Zotero. 
+
+![Adding from browser](step 4.JPG)
 
 ### Step 5 –  Add attachment
 
 * You can also add an attachment to your items. 
 * Select folder “Mental Health”, Click on the item you added in the previous step.
-* Click on the paper click icon. From the drop-down menu, please select “Attach a link to URI” to add a link to your item. 
+* Click on the paper click icon. From the drop-down menu, please select “Attach a link to URI” to add a [link](https://www.mentalhealth.gov/basics/what-is-mental-health) to your item. 
 * A dialogue box will appear, where you can add the link and give a title. Select OK to add the attachment to your item. 
 
 ----
