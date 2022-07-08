@@ -33,7 +33,7 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 
 * Click the “New Collection” above the left pane in Zotero to add a new collection. You can also right-click on “My Library” or the name of a Group library and choose “New Collection” to add a new collection.
 * A dialogue box will appear where you will have to name your collection. The new collection will appear as a folder under “My Library” or the selected Group library.
- Please create three collections :
+ Please create two collections :
 1.	Add Items
 2.	Mental Health
 
