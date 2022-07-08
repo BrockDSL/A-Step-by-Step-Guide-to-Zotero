@@ -42,7 +42,7 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 
 
 
-# Let's Add Citation and Bibliography Together. 
+### Let's Add Citation and Bibliography Together. 
 While making a report, I forgot to cite the author’s work. I would like you to help me avoid any charge of plagiarism and do a proper citation. 
 
 
@@ -60,7 +60,7 @@ Before we move forward, please make sure you have installed the [Zotero word plu
 
 * The dialogue box will appear to select citation style. Please select APA Citation style for learning purposes.
 
- <ins>***Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document.***</ins>
+ <ins>*Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document.*</ins>
  
  
 ### Step 3- Red Magic Box
