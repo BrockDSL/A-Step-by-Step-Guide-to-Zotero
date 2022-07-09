@@ -1,9 +1,15 @@
 ![Tool Logo](Citation-Management.png)
 
-# Citation Management with Zotero
-Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, and share anything you might find on the internet including scholarly publications, news articles, and YouTube videos. It is a great tool to help you do your research. This workshop will guide you through the installation of this tool and the most effective ways to use it. Zotero is available for Windows, Mac, and Linux.
+# Set up Instructions
 
-**Turn the cards and swipe right to learn more about the reasons to use Zotero :)**
+In preparation for this Module, you will need to register for a [Zotero account](https://www.zotero.org/user/register). Download the [desktop client](https://www.zotero.org/support/installation) and [browser extension](https://www.zotero.org/download/). Also go though the [install plugins](https://www.zotero.org/support/word_processor_plugin_manual_installation) for your word processors, like LibreOffice or MS Word.
+
+----
+
+# Citation Management with Zotero
+
+Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, and share anything you might find on the internet including scholarly publications, news articles, and YouTube videos. It is a great tool to help you do your research. This module will guide you through the installation of this tool and the most effective ways to use it. Zotero is available for Windows, Mac, and Linux.
+
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42087/embed" width="993" height="651" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -16,22 +22,17 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 
 ----
 
-## Set up Instructions
 
-In preparation for this workshop, you will need to register for a [Zotero account](https://www.zotero.org/user/register). Download the [desktop client](https://www.zotero.org/support/installation) and [browser extension](https://www.zotero.org/download/). Also go though the [install plugins](https://www.zotero.org/support/word_processor_plugin_manual_installation) for your word processors, like LibreOffice or MS Word.
+# <ins>Gathering Data with Zotero</ins>
 
-----
-
-## <ins>Gathering Data with Zotero</ins>
-*Please go through the slideshow to lean more on how to gather your items*
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42095/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
-**<center>Let's Gather the Data Together.</center>**
+
 
 **Step 1 – Create a collection and Library**
 
-* Click the “New Collection” above the left pane in Zotero to add a new collection. You can also right-click on “My Library” or the name of a Group library and choose “New Collection” to add a new collection.
+* Click the “New Collection” button above the left pane in Zotero to add a new collection. You can also right-click on “My Library” or the name of a Group library and choose “New Collection” to add a new collection.
 * A dialogue box will appear where you will have to name your collection. The new collection will appear as a folder under “My Library” or the selected Group library.
  Please create two collections :
 1.	Add Items
@@ -41,40 +42,34 @@ In preparation for this workshop, you will need to register for a [Zotero accoun
 
 **Step 2 –  Add Item by Identifier**
 
-* Select the “Add item” folder. Click the “Add Item by Identifier” button at the top of the center column of the Zotero pane.
+* Select the “Add items” folder. Click the “Add Item by Identifier” button at the top of the center column of the Zotero pane.
 * A dialogue box will appear to enter the identifier. Type or paste in the identifier - 978-1509546114, and press Enter/Return.
 * You will see the title “Pandemic! COVID-19 shakes the world” added to your “Add Items” Collection.
 
 ![Add item by identifier](step 2.JPG)
 
-**Step 3 –  Add items manually**
+**Step 3 –  Adding from Browser**
 
-You can add items manually. First, you will have to click on the folder in which you want to add an item. After selecting the folder, you will have to click the green plus sign on the top and select the relevant item type (example: Book). You can add all the metadata under the “Info” Tab. All your work will be saved automatically. 
-
-![Add item manually](step 3.JPG)
-
-**Step 4 –  Adding from Browser**
-
-* Go to your browser and open the [link](https://www.medicalnewstoday.com/articles/154543). Please make sure, you have downloaded the browser extension during setup instructions. 
+* Go to your browser and open this [link](https://www.medicalnewstoday.com/articles/154543). Please make sure you have downloaded the browser extension during setup instructions. 
 * Once the link is open in your browser, you will see a specific icon near the browser's address bar. Click on the icon and select the folder “Mental Health”. This will automatically save your web page in Zotero. 
 
 ![Adding from browser](step 4.JPG)
 
-**Step 5 –  Add attachment**
+**Step 4 –  Add attachment**
 
 * You can also add an attachment to your items. 
 * Select folder “Mental Health”, Click on the item you added in the previous step.
-* Click on the paper click icon. From the drop-down menu, please select “Attach a link to URI” to add a [link](https://www.mentalhealth.gov/basics/what-is-mental-health) to your item. 
+* Click on the paper clip icon. From the drop-down menu, please select “Attach a link to URI” to add a [link](https://www.mentalhealth.gov/basics/what-is-mental-health) to your item. 
 * A dialogue box will appear, where you can add the link and give a title. Select OK to add the attachment to your item. 
 
 ----
 
-## <ins>Organizing Data with Zotero</ins>
-*Organizing means arranging data or items into a structured form. You can organize you item with the help of Zotero in the form of collection, library and many more. Please go through the slideshow to lean more*
+# <ins>Organizing Data with Zotero</ins>
+
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42121/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
-**<center>Let's Organize the Data Together.</center>**
+
 
 **Step 1 –  Add Note**
 
@@ -108,14 +103,10 @@ You can add items manually. First, you will have to click on the folder in which
 
 ----
 
-## <ins>Sync, Cite and Share with Zotero</ins>
+# <ins>Sync, Cite and Share with Zotero</ins>
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42152/embed" width="993" height="340" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
-**<center>Let's Add Citation and Bibliography Together.</center>**
-
-While making a report, I forgot to cite the author’s work. I would like you to help me avoid any charge of plagiarism and do a proper citation. 
 
 
 **Step 1 – Prepare your document**
@@ -157,7 +148,7 @@ You will see your citation is inserted in your Word document. Well done on addin
 
 ---
 
-## Final Quiz to test your Knowledge!
+# Final Quiz to test your Knowledge!
 *Please swipe right to go through the knowledge Test*
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42123/embed" width="993" height="378" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
