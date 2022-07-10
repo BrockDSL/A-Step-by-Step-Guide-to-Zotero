@@ -4,6 +4,8 @@
 
 In preparation for this Module, you will need to register for a [Zotero account](https://www.zotero.org/user/register). Download the [desktop client](https://www.zotero.org/support/installation) and [browser extension](https://www.zotero.org/download/). Also go though the [install plugins](https://www.zotero.org/support/word_processor_plugin_manual_installation) for your word processors, like LibreOffice or MS Word.
 
+To work through this module, please [download](https://github.com/BrockDSL/A-Step-by-Step-Guide-to-Zotero/raw/master/Mental%20Health.docx) and open the Word document and Zotero application.
+
 ----
 
 # Citation Management with Zotero
