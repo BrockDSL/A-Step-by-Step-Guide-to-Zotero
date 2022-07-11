@@ -121,7 +121,7 @@ Before we move forward, please make sure you have installed the [Zotero word plu
 
 **Step 2- Choosing Citation Style**
 
-* Once the word document is open, please click on Zotero Tab, just next to the Help section on top. Once you will click on Zotero, there will be many different options open for you. Please select “Add/Edit Citation” for citation.  
+* In the word document, please click on the Zotero Tab, just next to the "Help" section on the toolbar. Once you will click on Zotero, there will be many different options open for you. Please select “Add/Edit Citation” for citation.
 
 
 * The dialogue box will appear to select citation style. Please select APA Citation style. 
