@@ -107,6 +107,8 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 
 # <ins>Sync, Cite and Share with Zotero</ins>
 
+*Please click on the headings below to expand the title.*
+
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42152/embed" width="993" height="340" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
