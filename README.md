@@ -90,7 +90,7 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 
 * To add a tag to an item, select the folder “Mental Health”. 
 * Select the item in the center Zotero pane, and then click the Tags tab in the right-hand pane. 
-* Click the Add button, type the tag name – (Example: #Mental Health), and click Enter/Return.
+* Click the "Add" button, type the tag name – (Example: #Mental Health), and click Enter/Return.
 
 ![Tag image](org 2.JPG)
 
