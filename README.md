@@ -75,7 +75,7 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 
 **Step 1 –  Add Note**
 
-*  To create a child note, First, select the folder “Mental Health”.
+*  To create a Child Note, select the folder “Mental Health”.
 * Select an item in the center pane. Then, either click the “New Note” button at the top of the center pane and select “Add Child Note” or go to the “Notes” tab in the right-hand pane and click the “Add” button. 
 *  A note editor will appear in the right-hand pane. Type or paste the following in your note editor:
 *Mental health disorders can generally be grouped into categories. Some of the most common include:*
@@ -88,15 +88,15 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 
 **Step 2 –  Add Tags**
 
-* To add a tag to an item, First, select the folder “Mental Health”. 
+* To add a tag to an item, select the folder “Mental Health”. 
 * Select the item in the center Zotero pane, and then click the Tags tab in the right-hand pane. 
-* Click the Add button, type the tag name – (Example: #Mental Health), and type Enter/Return.
+* Click the Add button, type the tag name – (Example: #Mental Health), and click Enter/Return.
 
 ![Tag image](org 2.JPG)
 
 **Step 3 –  Add Related**
 
-* To create a relation, First, select the folder “Mental Health”. 
+* To create a relation, select the folder “Mental Health”. 
 * Select an item in the center pane and go to the “Related” tab of the right pane. 
 * Click the “Add” button, and click on the “Add items” folder from the same library in the pop-up window (hold down Ctrl or Shift [Windows/Linux] or Cmd or Shift [Mac] to select multiple items) 
 * Select the item under the title (Pandemic! COVID-19 shakes the world) and click “OK”. The selected items will now show up as related items in the “Related” tab and clicking an item will take you straight to that item.
@@ -113,7 +113,7 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 
 **Step 1 – Prepare your document**
 
-To add citations and a bibliography to my article, please [download](https://github.com/BrockDSL/A-Step-by-Step-Guide-to-Zotero/raw/master/Mental%20Health.docx) the word document. 
+Please make sure, the word document we downloaded during setup instruction is open for our use.
 Before we move forward, please make sure you have installed the [Zotero word plugin](https://www.zotero.org/support/word_processor_plugin_manual_installation). 
 
 
@@ -122,20 +122,20 @@ Before we move forward, please make sure you have installed the [Zotero word plu
 * Once the word document is open, please click on Zotero Tab, just next to the Help section on top. Once you will click on Zotero, there will be many different options open for you. Please select “Add/Edit Citation” for citation.  
 
 
-* The dialogue box will appear to select citation style. Please select APA Citation style for learning purposes.
+* The dialogue box will appear to select citation style. Please select APA Citation style. 
 
  <ins>*Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document.*</ins>
  
   
 **Step 3- Red Magic Box**
 
-After selecting your citation style, a red color magic box will appear on your word document. Right-click on the Z symbol and select classic view. 
+After selecting the citation style, a red color magic box will appear on your word document. Right-click on the Z symbol and select classic view. 
 
 
 **Step 4- Adding Citation**
 
-Once you click on classic view in the previous step, a dialogue box will appear, showing your collection and libraries from Zotero. 
-Select folder “Mental Health” in the left corner. Select Title “Mental health” and press “OK”
+* Once you click on classic view in the previous step, a dialogue box will appear, displaying your collection and libraries from the Zotero application. 
+* Select folder “Mental Health” in the left corner. Select Title “Mental health” and press “OK”.
 
 
 **Step 5- Citation Inserted**
