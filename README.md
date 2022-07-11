@@ -61,7 +61,7 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 * You can also add an attachment to your items. 
 * Select folder “Mental Health”, Click on the item you added in the previous step.
 * Click on the paper clip icon. From the drop-down menu, please select “Attach a link to URI” to add a link to your item. 
-* A dialogue box will appear, type or paste in the link : https://www.mentalhealth.gov/basics/what-is-mental-health and give a title. 
+* A dialogue box will appear, type or paste in the link : <ins>https://www.mentalhealth.gov/basics/what-is-mental-health</ins> and give a title. 
 * Select OK to add the attachment to your item. 
 
 ----
