@@ -113,6 +113,8 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 
 
 
+
+
 **Step 1 – Prepare your document**
 
 Please make sure, the word document we downloaded during setup instruction is open for our use.
