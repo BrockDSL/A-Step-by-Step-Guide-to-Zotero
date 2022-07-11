@@ -138,7 +138,7 @@ After selecting the citation style, a red color magic box will appear on your wo
 
 **Step 4- Adding Citation**
 
-* Once you click on classic view in the previous step, a dialogue box will appear, displaying your collection and libraries from the Zotero application. 
+* Once you click on classic view in the previous step, a dialogue box will appear, displaying your collection and libraries from the Zotero software. 
 * Select folder “Mental Health” in the left corner. Select Title “Mental health” and press “OK”.
 
 
