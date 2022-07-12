@@ -82,7 +82,7 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 1. Anxiety Disorder
 2. Eating Disorder
 3. Mood Disorder
-* Press Enter. Your child note will be automatically created. 
+* Your child note will be automatically created. 
 
 ![Note image](org 1.JPG)
 
@@ -114,7 +114,6 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 
 
 
-
 **Step 1 – Prepare your document**
 
 Please make sure, the word document we downloaded during setup instruction is open for our use.
@@ -133,7 +132,7 @@ Before we move forward, please make sure you have installed the [Zotero word plu
   
 **Step 3- Red Magic Box**
 
-After selecting the citation style, a red color magic box will appear on your word document. Right-click on the Z symbol and select classic view. 
+After selecting the citation style, a red color magic box will appear on your word document. Left-click on the Z symbol and select classic view. 
 
 
 **Step 4- Adding Citation**
