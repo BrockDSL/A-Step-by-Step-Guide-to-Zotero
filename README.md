@@ -125,7 +125,7 @@ Before we move forward, please make sure you have installed the [Zotero word plu
 * In the word document, please click on the Zotero Tab, just next to the "Help" section on the toolbar. Once you will click on Zotero, there will be many different options open for you. Please select “Add/Edit Citation” for citation.
 
 
-* The dialogue box will appear to select citation style. Please select APA Citation style. 
+* The dialogue box will appear to select citation style. Please select **American Psychological Association(APA) 7th edition** Citation style. 
 
  <ins>*Learning Fact: Zotero supports 8100 citation style. Try using different citation styles for another document.*</ins>
  
