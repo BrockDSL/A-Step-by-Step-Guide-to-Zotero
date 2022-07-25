@@ -2,7 +2,7 @@
 
 # Set up Instructions
 
-In preparation for this module, you will need to register for a [Zotero account](https://www.zotero.org/user/register). Download the [desktop client](https://www.zotero.org/support/installation) and [browser extension](https://www.zotero.org/download/). Also go though the [install plugins](https://www.zotero.org/support/word_processor_plugin_manual_installation) instructions for your word processors, like LibreOffice or MS Word.
+In preparation for this module, you will need to register for a [Zotero account](https://www.zotero.org/user/register). Download the [desktop client](https://www.zotero.org/support/installation) and [browser extension](https://www.zotero.org/download/). Once zotero is installed, check and see if the plugin for your word processors, like LibreOffice or MS Word was automatically set up. If not then follow the [install plugins](https://www.zotero.org/support/word_processor_plugin_manual_installation) instructions for your word processors, like LibreOffice or MS Word.
 
 To work through this module, please [download](https://github.com/BrockDSL/A-Step-by-Step-Guide-to-Zotero/raw/master/Mental%20Health.docx) and open the Word document and Zotero software.
 
@@ -17,7 +17,7 @@ Zotero is a free easy-to-use tool that helps you collect, organize, cite, sync, 
 
 ----
 
-## Let's Test your knowledge on Referencing
+# Let's Test your knowledge on Referencing
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/42080/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
