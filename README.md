@@ -6,6 +6,7 @@ In preparation for this module, you will need to register for a [Zotero account]
 
 To work through this module, please [download](https://github.com/BrockDSL/A-Step-by-Step-Guide-to-Zotero/raw/master/Mental%20Health.docx) and open the Word document and Zotero software.
 
+
 ----
 
 # Citation Management with Zotero
