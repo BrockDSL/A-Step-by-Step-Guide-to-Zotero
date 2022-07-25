@@ -2,7 +2,7 @@
 
 # Set up Instructions
 
-In preparation for this module, you will need to register for a [Zotero account](https://www.zotero.org/user/register). Download the [desktop client](https://www.zotero.org/support/installation) and [browser extension](https://www.zotero.org/download/). Once zotero is installed, check and see if the plugin for your word processors, like LibreOffice or MS Word was automatically set up. If not then follow the [install plugins](https://www.zotero.org/support/word_processor_plugin_manual_installation) instructions for your word processors, like LibreOffice or MS Word.
+In preparation for this module, you will need to register for a [Zotero account](https://www.zotero.org/user/register). Download the [desktop client](https://www.zotero.org/support/installation) and [browser extension](https://www.zotero.org/download/). Once Zotero is installed, check and see if the plugin for your word processors, like LibreOffice or MS Word was automatically set up. If not then follow the [install plugins](https://www.zotero.org/support/word_processor_plugin_manual_installation) instructions for your word processors, like LibreOffice or MS Word.
 
 To work through this module, please [download](https://github.com/BrockDSL/A-Step-by-Step-Guide-to-Zotero/raw/master/Mental%20Health.docx) and open the Word document and Zotero software.
 
