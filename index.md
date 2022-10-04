@@ -1,4 +1,4 @@
-![Tool Logo](Citation-Management.png)
+![Tool Logo](Zotero-Module-Splash.png)
 
 # Set up Instructions
 
